@@ -1,0 +1,116 @@
+[
+
+
+
+
+
+
+{
+"title": "About the theme author",
+"tags": "getting_started",
+"keywords": "documentation theme, jekyll, technical writers, help authoring tools, hat replacements",
+"url": "getting-startedindex.html",
+"summary": "I have used this theme for projects that I've worked on as a professional technical writer."
+},
+
+
+
+{
+"title": "What is Appranix?",
+"tags": "getting_started",
+"keywords": "sample homepage",
+"url": "index.html",
+"summary": "These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of this theme and Jekyll."
+},
+
+
+
+{
+"title": "News",
+"tags": "",
+"keywords": "news, blog, updates, release notes, announcements",
+"url": "news.html",
+"summary": ""
+},
+
+
+
+{
+"title": "News",
+"tags": "",
+"keywords": "news, blog, updates, release notes, announcements",
+"url": "news_archive.html",
+"summary": ""
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+"title": "Sample post",
+"tags": "newsgetting_started",
+"keywords": "",
+"url": "/samplepost.html",
+"summary": "This is some summary frontmatter for my sample post."
+}
+,
+
+
+{
+"title": "Welcome to Jekyll!",
+"tags": "news",
+"keywords": "",
+"url": "/myupdate.html",
+"summary": ""
+}
+,
+
+
+{
+"title": "Test post from last year",
+"tags": "news",
+"keywords": "",
+"url": "/test-post-from-last-year.html",
+"summary": ""
+}
+
+
+
+]
